@@ -1,0 +1,20 @@
+#nav-bar {
+    height: 100px;
+    background-color: rgb(44, 62, 80);
+}
+.border-test {
+    border: 2px dashed black;
+}
+.height-test {
+    height: 90px;
+}
+#jumbotron, #about {
+    background-color: rgb(26, 188, 156);
+}
+.portfolio-card {
+    margin-bottom: 1.5rem;
+}
+.my_container {
+    width: 70%;
+    margin: 0 auto;
+}
